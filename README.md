@@ -34,7 +34,22 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 
 
-## Software-as-a-service
+## Build
+
+
+## Test
+
+
+## Monitor
+
+
+
+## Operate
+
+
+
+## Continuous_feedback
+
 
 
 
