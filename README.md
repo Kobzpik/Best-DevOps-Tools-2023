@@ -53,6 +53,9 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 ## Continuous_feedback
 
+| Tools    | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
+| Slack Software| Slack is a popular team collaboration platform that facilitates communication and workflow management. It allows users to create channels for specific topics, exchange messages, share files, integrate with various apps, and more. Slack helps teams streamline communication and enhance productivity in a digital workspace. |https://www.atlassian.com/partnerships/slack?utm_campaign=service-desk_devops16-blog  |
 
 
 
