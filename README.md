@@ -28,16 +28,16 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 | Jira Software| JIRA was an open source tool available for anyone to download. Its popularity drove thousands of users to adopt it within organizations across the globe. Unlike IBM Engineering Management Platform, the tool is primarily for use in small teams and individuals, not large projects or enterprises. Subsequently, the product was taken off of open-source servers somehow. Atlassian created a business around this product. According to Atlassian, Jira is used for issue tracking and project management | https://www.atlassian.com/software/jira |
 
 <!--| [Tools](https://www.tools.net/) | discription here | [How to use service](https://tools-example.com)|-->
-
 ## Code
+| Tools    | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
+| Git | Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. | https://git-scm.com/ |
+
+## Build
 
 | Tools    | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
 | Docker Software| Developers may create, deploy, and execute containers with the aid of Docker, a commercial containerization platform and runtime. It has a client-server architecture with a single API for automation and simple instructions.By authoring a Dockerfile and then executing the necessary commands to generate the image using the Docker server, a user can bundle programmes into immutable container images utilising the tools that Docker also offers. Even without Docker, developers can create containers, but the Docker platform makes it simpler to do so. Any platform that supports containers, such as Kubernetes, Docker Swarm, Mesos, or HashiCorp Nomad, can then be used to deploy and operate these container images.  | [https://www.atlassian.com/software/jira](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker?utm_campaign=service-desk_devops16-blog) |
-
-
-
-## Build
 
 
 ## Test
