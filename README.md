@@ -37,8 +37,8 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 | Tools    | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
-| Docker Software| Developers may create, deploy, and execute containers with the aid of Docker, a commercial containerization platform and runtime. It has a client-server architecture with a single API for automation and simple instructions.By authoring a Dockerfile and then executing the necessary commands to generate the image using the Docker server, a user can bundle programmes into immutable container images utilising the tools that Docker also offers. Even without Docker, developers can create containers, but the Docker platform makes it simpler to do so. Any platform that supports containers, such as Kubernetes, Docker Swarm, Mesos, or HashiCorp Nomad, can then be used to deploy and operate these container images.  | [https://www.atlassian.com/software/jira](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker?utm_campaign=service-desk_devops16-blog) |
-
+| Docker Software| Developers may create, deploy, and execute containers with the aid of Docker, a commercial containerization platform and runtime. It has a client-server architecture with a single API for automation and simple instructions.By authoring a Dockerfile and then executing the necessary commands to generate the image using the Docker server, a user can bundle programmes into immutable container images utilising the tools that Docker also offers. Even without Docker, developers can create containers, but the Docker platform makes it simpler to do so. Any platform that supports containers, such as Kubernetes, Docker Swarm, Mesos, or HashiCorp Nomad, can then be used to deploy and operate these container images.  |https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker?utm_campaign=service-desk_devops16-blog |
+| Kubernetes|Kubernetes is an open-source container orchestration platform that simplifies the deployment, scaling, and management of containerized applications. It automates tasks such as load balancing, self-healing, and resource allocation, ensuring that applications run reliably and efficiently. By using declarative configuration, it defines the desired state of applications, enabling seamless updates and rollbacks. Kubernetes is cloud-agnostic, allowing for portability across different environments, and it can be extended with a wide range of tools and resources. This makes it a fundamental tool for modern, scalable, and resilient application deployment in both small startups and large enterprises.  |[https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker?utm_campaign=service-desk_devops16-blog](https://kubernetes.io/docs/tutorials/kubernetes-basics/) |
 
 ## Test
 
@@ -48,11 +48,17 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 
 ## Operate
+| Tools    | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
+| Jenkins | Jenkins is an open-source automation server widely used for continuous integration and continuous delivery (CI/CD) in software development. It automates the building, testing, and deployment of code changes, ensuring that software projects remain reliable and up to date. Jenkins supports a vast array of plugins and integrations, making it highly customizable and adaptable to various development environments. Its user-friendly interface and vast community support have made it a staple in DevOps practices, helping teams streamline development workflows and improve software quality.| https://www.jenkins.io/doc/tutorials/ |
 
 
 
 ## Continuous_feedback
 
+| Tools    | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
+| Slack Software| Slack is a popular team collaboration platform that facilitates communication and workflow management. It allows users to create channels for specific topics, exchange messages, share files, integrate with various apps, and more. Slack helps teams streamline communication and enhance productivity in a digital workspace. |https://www.atlassian.com/partnerships/slack?utm_campaign=service-desk_devops16-blog  |
 
 
 
@@ -67,6 +73,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Kobzpik"><img src="https://avatars.githubusercontent.com/u/57173720?s" width="100px;" alt=""/><br /><sub><b>Prabath Indrajith</b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Tutorials">✅</a> <a href="" title="Reviewed Pull Requests">👀</a> <a href="" title="">💡</a> <a href="" title="Ideas, Planning, & Feedback">🤔</a></td> 
+    <td align="center"><a href="https://github.com/thejana123"><img src="https://avatars.githubusercontent.com/u/57648468?v=4" width="100px;" alt=""/><br /><sub><b>Thejana Lakshan</b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Tutorials">✅</a> <a href="" title="Reviewed Pull Requests">👀</a> <a href="" title="">💡</a> <a href="" title="Ideas, Planning, & Feedback">🤔</a></td> 
+    <td align="center"><a href="https://github.com/Abishethvarman"><img src="https://avatars.githubusercontent.com/u/57715922?v=4" width="100px;" alt=""/><br /><sub><b>Abisheth Varman</b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Tutorials">✅</a> <a href="" title="Reviewed Pull Requests">👀</a> <a href="" title="">💡</a> <a href="" title="Ideas, Planning, & Feedback">🤔</a></td> 
   <tr>
 </table> 
 
