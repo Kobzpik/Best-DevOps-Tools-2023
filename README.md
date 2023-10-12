@@ -37,7 +37,7 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 | Tools    | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
-| Docker Software| Developers may create, deploy, and execute containers with the aid of Docker, a commercial containerization platform and runtime. It has a client-server architecture with a single API for automation and simple instructions.By authoring a Dockerfile and then executing the necessary commands to generate the image using the Docker server, a user can bundle programmes into immutable container images utilising the tools that Docker also offers. Even without Docker, developers can create containers, but the Docker platform makes it simpler to do so. Any platform that supports containers, such as Kubernetes, Docker Swarm, Mesos, or HashiCorp Nomad, can then be used to deploy and operate these container images.  | [https://www.atlassian.com/software/jira](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker?utm_campaign=service-desk_devops16-blog) |
+| Docker Software| Developers may create, deploy, and execute containers with the aid of Docker, a commercial containerization platform and runtime. It has a client-server architecture with a single API for automation and simple instructions.By authoring a Dockerfile and then executing the necessary commands to generate the image using the Docker server, a user can bundle programmes into immutable container images utilising the tools that Docker also offers. Even without Docker, developers can create containers, but the Docker platform makes it simpler to do so. Any platform that supports containers, such as Kubernetes, Docker Swarm, Mesos, or HashiCorp Nomad, can then be used to deploy and operate these container images.  |https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker?utm_campaign=service-desk_devops16-blog |
 
 
 ## Test
@@ -53,6 +53,9 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 ## Continuous_feedback
 
+| Tools    | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
+| Slack Software| Slack is a popular team collaboration platform that facilitates communication and workflow management. It allows users to create channels for specific topics, exchange messages, share files, integrate with various apps, and more. Slack helps teams streamline communication and enhance productivity in a digital workspace. |https://www.atlassian.com/partnerships/slack?utm_campaign=service-desk_devops16-blog  |
 
 
 
