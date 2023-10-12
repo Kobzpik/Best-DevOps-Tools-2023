@@ -48,6 +48,9 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 
 ## Operate
+| Tools    | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
+| Jenkins | Jenkins is an open-source automation server widely used for continuous integration and continuous delivery (CI/CD) in software development. It automates the building, testing, and deployment of code changes, ensuring that software projects remain reliable and up to date. Jenkins supports a vast array of plugins and integrations, making it highly customizable and adaptable to various development environments. Its user-friendly interface and vast community support have made it a staple in DevOps practices, helping teams streamline development workflows and improve software quality.| https://www.jenkins.io/doc/tutorials/ |
 
 
 
