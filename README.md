@@ -44,7 +44,10 @@ Plan Phase -  The Plan phase is where the enhancements, changes, or bug fixes ar
 
 
 ## Monitor
-
+| Tools    | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
+| Datadog | Datadog is a widely used cloud monitoring and observability platform that helps organizations gain insights into the performance and security of their applications and infrastructure. It offers capabilities for infrastructure monitoring, application performance monitoring, log management, network monitoring, and more. With its extensive integration ecosystem, Datadog provides real-time metrics, visualization, and alerting, making it a popular choice for ensuring the reliability and efficiency of modern cloud-native and hybrid environments.  |https://learn.datadoghq.com/ |
+| Amazon CloudWatch| Amazon CloudWatch, a core AWS service, provides extensive monitoring and observability capabilities. It allows users to collect, store, and analyze data from various AWS resources and applications. CloudWatch offers metrics, logs, alarms, dashboards, and automation features for effective resource management and troubleshooting. It's an essential tool for maintaining the reliability and efficiency of cloud-based infrastructure and applications. |https://aws.amazon.com/cloudwatch/getting-started/|
 
 
 ## Operate
